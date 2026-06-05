@@ -8,7 +8,7 @@ infrastructure readiness, and a forward-looking executive summary.
 
 | Page | Description |
 |---|---|
-| National Trend | EV registrations 2014–2023 with CAGR, YoY growth and PCS overlay |
+| National Trend | EV registrations 2014–2023 with CAGR and YoY growth |
 | State Insights | Top states by volume and penetration, quadrant analysis |
 | Infrastructure | Readiness scoring, PCS gap analysis, FAME segment breakdown |
 | Executive Summary | Five key findings, state matrix, recommendations |
@@ -27,16 +27,16 @@ infrastructure readiness, and a forward-looking executive summary.
 - DAX
 - Power Query
 
-## Dashboard
+## Screenshots
 
 ### Page 1 — National Trend
-![Page 1](screenshots/page1_national_trend.png)
+![Page 1](Dashboard/page1_national_trend.png)
 
 ### Page 2 — State Insights
-![Page 2](screenshots/page2_state_insights.png)
+![Page 2](Dashboard/page2_state_insights.png)
 
 ### Page 3 — Infrastructure
-![Page 3](screenshots/page3_infrastructure.png)
+![Page 3](Dashboard/page3_infrastructure.png)
 
 ### Page 4 — Executive Summary
-![Page 4](screenshots/page4_executive_summary.png)
+![Page 4](Dashboard/page4_executive_summary.png)

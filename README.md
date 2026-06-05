@@ -27,7 +27,7 @@ infrastructure readiness, and a forward-looking executive summary.
 - DAX
 - Power Query
 
-## Screenshots
+## Dashboard
 
 ### Page 1 — National Trend
 ![Page 1](screenshots/page1_national_trend.png)

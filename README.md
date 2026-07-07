@@ -15,11 +15,11 @@ infrastructure readiness, and a forward-looking executive summary.
 
 ## Key Findings
 
-- India's EV market grew at a 78.4% CAGR from 2014 to 2023
+- India's EV market grew at a 107.17% CAGR from 2014 to 2023
 - 2022 recorded a 209% surge — the largest single year jump
-- 8 states have over 500 EVs per charging station
+- 3 states have over 500 EVs per charging station
 - Uttar Pradesh leads volume, Delhi leads penetration at 7.72%
-- Only 5 states score above 60 on the composite readiness index
+- 15 states score above 60 on the composite readiness index
 
 ## Tools Used
 
